@@ -22,6 +22,9 @@ layout: default
           <li>team</li>
           <li>y'all</li>
         </ul>
+        <p class="lead"><strong>The aim of hey-guys.cc is to encourage the use of inclusive language in online and in-person communication.</strong></p>
+        <p>Feel free to add the following to your email signature:</p>
+        <blockquote class="blockquote">Q: How can I use more inclusive language?<br>A: https://heyguys.cc</blockquote>
         <h2>thanks</h2>
         <p class="lead"><a href="http://sentenc.es/">sentenc.es</a> for the idea for this site.</p>
       </div>
