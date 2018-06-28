@@ -11,9 +11,9 @@ layout: default
       <div class="col-lg-8 col-md-7 col-sm-6">
         <h1>hey guys</h1>
         <h2>problem</h2>
-        <p>"Hey guys" is a common salutation, but it's not gender neutral. People who aren't men can feel excluded when addressed as "guys," even if that is not the intent.</p>
+        <p class="lead">"Hey guys" is a common salutation, but it's not gender neutral. People who aren't men can feel excluded when addressed as "guys," even if that is not the intent.</p>
         <h2>solution</h2>
-        <p>Instead of using "hey guys," consider one of these several alternatives:</p>
+        <p class="lead">Instead of using "hey guys," consider one of these several alternatives:</p>
         <ul>
           <li>everyone</li>
           <li>folks</li>
@@ -23,7 +23,7 @@ layout: default
           <li>y'all</li>
         </ul>
         <h2>thanks</h2>
-        <p><a href="http://sentenc.es/">sentenc.es</a> for the idea for this site.</p>
+        <p class="lead"><a href="http://sentenc.es/">sentenc.es</a> for the idea for this site.</p>
       </div>
     </div>
   </div>
