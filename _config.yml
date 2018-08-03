@@ -14,10 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hey Guys
-email: laceynwilliams@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  "Hey guys" is a common salutation, but it's not gender neutral. Instead of 
-  using "hey guys," consider some alternatives.
+email: your-email@example.com
+description: >-
+  "Hey guys" is a common salutation, but it's not gender neutral.
+  People who aren't men can feel excluded when addressed as "guys,"
+  even if that is not the intent.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://heyguys.cc" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -32,15 +33,21 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .editorconfig
+  - .gitignore
+  - bower_components
+  - CNAME
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - vendor
