@@ -21,10 +21,10 @@ description: >-
   even if that is not the intent.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://heyguys.cc" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-  - @laceynwilliams
-  - @webology
-github_username:  
+twitter_username:
+  - laceynwilliams
+  - webology
+github_username:
   - williln
   - jefftriplett
 
