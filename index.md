@@ -13,6 +13,7 @@ image: /static/img/hello.jpg
         <ul class="lead">
           <li>everyone</li>
           <li>folks</li>
+          <li>all</li>
           <li>friends</li>
           <li>pals</li>
           <li>team</li>
