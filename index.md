@@ -3,16 +3,14 @@ layout: default
 image: /static/img/hello.jpg
 ---
 
-<div class="container">
-  <div class="page-header" id="banner">
+<main class="container">
     <div class="row">
       <div class="col-lg-8 col-md-7 col-sm-6">
-        <h1>hey guys</h1>
         <h2>problem</h2>
         <p class="lead">"Hey guys" is a common salutation, but it's not gender neutral. People who aren't men can feel excluded when addressed as "guys," even if that is not the intent.</p>
         <h2>solution</h2>
         <p class="lead">Instead of using "hey guys," consider one of these several alternatives:</p>
-        <ul>
+        <ul class="lead">
           <li>everyone</li>
           <li>folks</li>
           <li>friends</li>
@@ -28,5 +26,4 @@ image: /static/img/hello.jpg
         </code>
       </div>
     </div>
-  </div>
-</div>
+</main>
