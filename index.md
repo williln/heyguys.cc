@@ -1,5 +1,6 @@
 ---
 layout: default
+image: /static/img/hello.jpg
 ---
 
 <div class="container">
@@ -25,8 +26,6 @@ layout: default
           Q: How can I use more inclusive language?
           A: https://heyguys.cc
         </code>
-        <h2>thanks</h2>
-        <p class="lead"><a href="http://sentenc.es/">sentenc.es</a> for the idea for this site.</p>
       </div>
     </div>
   </div>
