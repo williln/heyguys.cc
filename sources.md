@@ -1,7 +1,27 @@
-# sources 
+---
+layout: default
+---
 
-If you want to learn more about using gender-neutral language, check out these resources. 
+<div class="container">
+  <div class="page-header" id="banner">
+    <div class="row">
+      <div class="col-lg-8 col-md-7 col-sm-6">
 
-- [Hacking inclusion: How we customized a bot to gently correct people who use the word 'guys'](https://18f.gsa.gov/2016/01/12/hacking-inclusion-by-customizing-a-slack-bot/), Maya Benari, 18F.
-- [Male Programmer Privilege Checklist](http://geekfeminism.wikia.com/wiki/Male_Programmer_Privilege_Checklist), Geek Feminism Wiki. 
-- [Why I’m finally convinced it's time to stop saying "you guys"](https://www.vox.com/2015/6/11/8761227/you-guys-sexism-language), Jenée Desmond-Harris, Jun 2015. 
+        <h1>hey guys</h1>
+
+        <h2>sources</h2>
+
+        <p class="lead">If you want to learn more about using gender-neutral language, check out these resources. </p>
+
+        <ul>
+          <li><a href="https://18f.gsa.gov/2016/01/12/hacking-inclusion-by-customizing-a-slack-bot/">Hacking inclusion: How we customized a bot to gently correct people who use the word 'guys'</a>, Maya Benari, 18F.</li>
+
+          <li><a href="http://geekfeminism.wikia.com/wiki/Male_Programmer_Privilege_Checklist">Male Programmer Privilege Checklist</a>, Geek Feminism Wiki. </li>
+
+          <li><a href="https://www.vox.com/2015/6/11/8761227/you-guys-sexism-language">Why I’m finally convinced it's time to stop saying "you guys"</a>, Jenée Desmond-Harris, Jun 2015. </li>
+        </ul>
+
+      </div>
+    </div>
+  </div>
+</div>
