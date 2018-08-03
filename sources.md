@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Sources
+permalink: /sources/
 ---
 
 <div class="container">
