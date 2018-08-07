@@ -19,7 +19,7 @@ image: /static/img/hello.jpg
           <li>team</li>
           <li>y'all</li>
         </ul>
-        <p class="lead">The aim of <a href="https://heyguys.cc/">hey-guys.cc</a> is to encourage the use of inclusive language in online and in-person communication.</p>
+        <p class="lead">The aim of <a href="https://heyguys.cc/">heyguys.cc</a> is to encourage the use of inclusive language in online and in-person communication.</p>
         <p class="lead">Feel free to add the following to your email signature:</p>
         <code>
           Q: How can I use more inclusive language?
