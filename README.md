@@ -8,10 +8,13 @@ Instead of using "hey guys," consider one of these several alternatives:
 
 - everyone
 - folks
+- all
 - friends
 - pals
 - team
 - y'all
+- people
+- peeps
 
 ## Local development
 
