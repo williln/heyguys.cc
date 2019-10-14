@@ -10,7 +10,6 @@ Instead of using "hey guys," consider one of these several alternatives:
 - folks
 - all
 - friends
-- pals
 - team
 - y'all
 - yinz
