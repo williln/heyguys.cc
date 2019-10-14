@@ -15,7 +15,6 @@ image: /static/img/hello.jpg
           <li>folks</li>
           <li>all</li>
           <li>friends</li>
-          <li>pals</li>
           <li>team</li>
           <li>y'all</li>
           <li>yinz</li>
