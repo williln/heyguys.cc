@@ -49,5 +49,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+  - modd.conf
   - README.md
   - vendor
