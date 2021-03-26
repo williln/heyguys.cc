@@ -18,6 +18,7 @@ image: /static/img/hello.jpg
           <li>team</li>
           <li>y'all</li>
           <li>yinz</li>
+          <li>yous</li>
           <li>youse</li>
           <li>people</li>
           <li>peeps</li>
