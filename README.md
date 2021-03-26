@@ -13,6 +13,7 @@ Instead of using "hey guys," consider one of these several alternatives:
 - team
 - y'all
 - yinz
+- yous
 - youse
 - people
 - peeps
