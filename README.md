@@ -13,6 +13,7 @@ Instead of using "hey guys," consider one of these several alternatives:
 - team
 - y'all
 - yinz
+- youse
 - people
 - peeps
 
@@ -35,4 +36,3 @@ Instead of using "hey guys," consider one of these several alternatives:
 This site is maintained by [Lacey Williams Henschel](https://twitter.com/laceynwilliams) and [Jeff Triplett](https://twitter.com/webology).
 
 Please feel free to suggest an enhancement or improvement by filing an issue. All contributors must adhere to our [code of conduct](CODE_OF_CONDUCT.md).
-
