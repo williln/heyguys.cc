@@ -22,6 +22,7 @@ image: /static/img/hello.jpg
           <li>youse</li>
           <li>people</li>
           <li>peeps</li>
+          <li>mates</li>
         </ul>
         <p class="lead">The aim of <a href="https://heyguys.cc/">heyguys.cc</a> is to encourage the use of inclusive language in online and in-person communication.</p>
         <p class="lead">Feel free to add the following to your email signature:</p>
