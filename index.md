@@ -23,6 +23,12 @@ image: /static/img/hello.jpg
           <li>people</li>
           <li>peeps</li>
         </ul>
+        <h1>other terms</h1>
+        <p class="lead">Why stop there? There are many other terms we can use!</p>
+        <ul class="lead">
+          <li>siblings (rather than "brother and sister")</li>
+          <li>niblings (rather than "nieces and nephews")</li>
+        </ul>
         <p class="lead">The aim of <a href="https://heyguys.cc/">heyguys.cc</a> is to encourage the use of inclusive language in online and in-person communication.</p>
         <p class="lead">Feel free to add the following to your email signature:</p>
         <code>
