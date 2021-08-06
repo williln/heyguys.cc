@@ -12,6 +12,7 @@ image: /static/img/hello.jpg
         <p class="lead">Instead of using "hey guys," consider one of these several alternatives:</p>
         <ul class="lead">
           <li>everyone</li>
+          <li>everybody</li>
           <li>folks</li>
           <li>all</li>
           <li>friends</li>
