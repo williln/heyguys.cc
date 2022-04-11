@@ -7,6 +7,7 @@
 Instead of using "hey guys," consider one of these several alternatives:
 
 - everyone
+- everybody
 - folks
 - all
 - friends
