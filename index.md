@@ -23,6 +23,7 @@ image: /static/img/hello.jpg
           <li>youse</li>
           <li>people</li>
           <li>peeps</li>
+          <li>chat</li>
         </ul>
         <h1>other terms</h1>
         <p class="lead">Why stop there? There are many other terms we can use!</p>
